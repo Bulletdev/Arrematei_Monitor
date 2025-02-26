@@ -457,11 +457,11 @@ end
 Crie as views necessárias, começando pelo dashboard:
 
 **`app/views/dashboard/index.html.erb`**
-(Usar o código fornecido anteriormente)
+
 
 ### 8. Adicionar Estilos
 
-Crie o arquivo `app/assets/stylesheets/dashboard.css` com o código fornecido anteriormente.
+Crie o arquivo `app/assets/stylesheets/dashboard.css` 
 
 ### 9. Iniciar os Serviços
 
